@@ -11,12 +11,11 @@ https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=202996068&idx=1&sn=f5b58b7
 ##2017/9/27
 ####计划：
 2015-1-28~2015-2-25
-<<<<<<< HEAD
 ####实际执行：2015-1-28~2015-4-3
 
 
-##2017/9/28
+##2017/10/05
 ####计划：
-2015-4-4~2015-5-31
-=======
-####计划：
+深入浅出 React Native：使用 JavaScript 构建原生应用
+http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=205148495&idx=1&sn=b5e90344285c132a980b54cd2cf56f1d&scene=38#wechat_redirect
+http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=205148495&idx=2&sn=1f247b8963fa8894919c3397ca2cebd9&scene=38#wechat_redirect
